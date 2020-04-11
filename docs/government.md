@@ -372,6 +372,6 @@ pageClass: routes
 
 | 发展规划 | 统计信息 | 首页信息 |
 | :------: | :------: | :------: |
-|   fzgh   |   tjxx   |  zdgz   |
+|   fazgh   |   tjxx   |  zdgz   |
 
 </Route>
