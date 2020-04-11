@@ -358,15 +358,15 @@ pageClass: routes
 
 ### 发言人表态
 
-<Route author="nicolaszf" example="/gov/fmprc/fyrbt" path="/gov/fmprc/fyrbt"/></Route>
+<Route author="nicolaszf" example="/gov/fmprc/fyrbt" path="/gov/fmprc/fyrbt"/>
 
 ## 中央纪委国家监委
 
 ### 审查调查
 
-<Route author="LogicJake" example="/ccdi/scdc" path="/ccdi/scdc"/></Route>
+<Route author="LogicJake" example="/ccdi/scdc" path="/ccdi/scdc"/>
 ## 泸州
-<Route author="LogicJake" example="/gov/luzhou/fzgh" path="/gov/luzhou/index"/>
+<Route author="LogicJake" example="/gov/luzhou/fzgh" path="/gov/luzhou/index">
 | 发展规划 | 统计信息 | 首页信息 |
 | :------: | :------: | :------: |
 |   fzgh   |   tjxx   |  zdgz   |
